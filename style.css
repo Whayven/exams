@@ -52,6 +52,10 @@ body {
     width: 85%;
 }
 
+img {
+    width: 100%;
+}
+
 
 main {
     width: 90%;
